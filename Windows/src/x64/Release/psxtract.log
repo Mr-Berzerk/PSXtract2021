@@ -1,0 +1,25 @@
+﻿  cdrom.cpp
+R:\PS1toPSP\psxtract\psxtract-master\Windows\src\cdrom.cpp(60,73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+R:\PS1toPSP\psxtract\psxtract-master\Windows\src\cdrom.cpp(124,65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+R:\PS1toPSP\psxtract\psxtract-master\Windows\src\cdrom.cpp(185,71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+R:\PS1toPSP\psxtract\psxtract-master\Windows\src\cdrom.cpp(438,70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  crypto.cpp
+R:\PS1toPSP\psxtract\psxtract-master\Windows\src\crypto.cpp(281,16): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  lz.cpp
+R:\PS1toPSP\psxtract\psxtract-master\Windows\src\lz.cpp(156,20): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+R:\PS1toPSP\psxtract\psxtract-master\Windows\src\lz.cpp(171,37): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+R:\PS1toPSP\psxtract\psxtract-master\Windows\src\lz.cpp(270,19): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  psxtract.cpp
+  utils.cpp
+  aes.c
+  amctrl.c
+  bn.c
+  des.c
+  ec.c
+  kirk_engine.c
+  sha1.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  psxtract.vcxproj -> R:\PS1toPSP\psxtract\psxtract-master\Windows\x64\Release\psxtract.exe
