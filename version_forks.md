@@ -6,16 +6,16 @@ Hykem (original)
 +@mrlucas84 / psxtract
 	-!@ErikPshat / psxtract_hykem
 		-@Pollito001 / psxtract_hykem
-	-@AKuHAK / psxtract (14 commits ahead of @mrlucas84)
+	+@rheimeister / psxtract (12 commits ahead of @mrlucas84)
+	+@AKuHAK / psxtract (14 commits ahead of @mrlucas84) [Update of @rheimeister]
+	+@CuriousTommy / psxtract (35 commits ahead of @mrlucas84) [Update of @AkUhak]
+	+@sirrus233 / psxtract (35 commits ahead of @mrlucas84) [Clone of @CuriousTommy]
+		+@killerpommes / psxtract (Just a Clone)
+	-@marchrius / psxtract (37 commits ahead of @mrlucas84) [Latest Update of @AkUhak + Linux->Unix & Shared Libkirk file]
 		-@hizukiayaka / psxtract (Just a Clone)
 		-@sij1mii / psxtract (Just a Clone)
 		-@Zen-11 / psxtract (Just a Clone)
-	-@CuriousTommy / psxtract (35 commits ahead of @mrlucas84)
-	-@marchrius / psxtract (37 commits ahead of @mrlucas84)
-	-@rheimeister / psxtract (12 commits ahead of @mrlucas84)
-	-@sirrus233 / psxtract (35 commits ahead of @mrlucas84)
-		-@killerpommes / psxtract (Just a Clone)
-	+@Sorvigolova / psxtract (36 commits ahead of @mrlucas84)
+	+@Sorvigolova / psxtract (36 commits ahead of @mrlucas84) [Clone of marchrius without Linux->Unix change & shared 'libkirk' file]
 		+!@xdotnano / PSXtract (Windows Only)
 			+!@Mr-Berzerk / PSXTract2021 v1 (Converted to x64 Win 10)
 			+@ErikPshat / PSXtract-1 (Just a Clone)
@@ -25,7 +25,7 @@ Hykem (original)
 				-@KMFDManic / PSXtract (Just a Clone)
 				-@msgpo / PSXtract (Just a Clone)
 		+@DeadlySystem / psxtract (Just a Clone)
-		-!@DeadlySystem / psxtract-2 (psxtract v2 Windows & Linux) 
+		-!@DeadlySystem / psxtract-2 (psxtract v2 Windows & Linux)[Clone of libretro's with AKuHAK's updates added in and decoding of audio tracks.]
 			-@ErikPshat / psxtract (Just a Clone)
 			-@esc0rtd3w / psxtract (Just a Clone)
 				-@cualquiercosa327 / psxtract (Just a Clone)
