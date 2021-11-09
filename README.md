@@ -46,24 +46,32 @@ Working games and compatibility
 
 The following games have been tested with ePSXe and are known to work. All games were bought from the PSN US store unless another store is indicated.
 
+- Alundra (UK)
 - Breath of Fire IV
+- Castlevania Symphony of the Night (UK)
 - Crash Bandicoot
 - Crash Bandicoot 2: Cortex Strikes Back
 - Crash Bandicoot 3: WARPED
 - CTR: Crash Team Racing
-- Final Fantasy VII (German)
-- Final Fantasy IX
+- Final Fantasy VII (UK,German)
+- Final Fantasy VIII (US,UK)
+- Final Fantasy IX (US,UK)
 - Grandia
 - Disney's Hercules
 - Legend of Dragoon
 - Legend of Mana
+- Mega Man X4
+- Mega Man X5
 - Metal Gear Solid (German)
 - Metal Slug X
 - Simcity 2000
 - Spyro the Dragon
 - Spyro 2: Ripto's Rage
 - Spyro Year of the Dragon
+- Suikoden (UK)
+- Suikoden II (UK)
 - The Misadventures of Tron Bonne
+- Vagrant Story
 - Wing Commander IV: The Price of Freedom
 
 If you have used this program on a game not listed, and it has worked, don't hesitate to let
@@ -84,4 +92,6 @@ tpunix (C port and research of the PGD and AMCTRL algorithms)
 PSPSDK (PBP unpacking sample code)
 
 Hykem for developing the original program.
+
+xdotnano for testing on additional games.
 
